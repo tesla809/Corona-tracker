@@ -2,6 +2,8 @@
 
 [![Build Status](http://img.shields.io/travis/COVID-19-electronic-health-system/Corona-tracker/master.svg?style=for-the-badge)](https://travis-ci.org/COVID-19-electronic-health-system/Corona-tracker)
 
+Test
+
 A tool to help reduce the number of unnecessary hospital visits, educate the public on facts vs myths, and provide a health and wellbeing chart for logging their journey during these uncertain and tumultuous times.
 
 ## Get involved and help out!
@@ -18,6 +20,8 @@ A tool to help reduce the number of unnecessary hospital visits, educate the pub
 
 <!-- TOC -->
 
+- [Get involved and help out!](#get-involved-and-help-out)
+- [Table of Contents](#table-of-contents)
 - [We are in crisis and we need to act](#we-are-in-crisis-and-we-need-to-act)
 - [Frequently Asked Questions](#frequently-asked-questions)
   - [Who is this app for?](#who-is-this-app-for)
